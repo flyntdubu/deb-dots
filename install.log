@@ -1,0 +1,7 @@
+Installing extensions...
+Extension 'catppuccin.catppuccin-vsc-icons' v1.9.0 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'catppuccin.catppuccin-vsc-icons@1.2.3'.
+[34m[*] .config/VSCodium/User/settings.json is a symlink. Removing the symlink.[0m
+[34m[*] Linking .config/VSCodium/User/settings.json.[0m
+[34m[*] Skipping konsole.[0m
+[34m[*] Removing directory .local/share/konsole.[0m
+[34m[*] Linking .local/share/konsole.[0m

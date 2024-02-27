@@ -1,0 +1,30 @@
+[Desktop Entry]
+Comment[es_ES]=Scratchy - Catppuccin macchiato
+Name=Scratchy
+Name[es_ES]=Scratchy
+X-KDE-PluginInfo-Author=jomada
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=plasma-desktop
+X-KDE-PluginInfo-Email=gicalucejo@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=Scratchy
+X-KDE-PluginInfo-Version=1.6
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+comment=Scratchy theme - Catppuccin macchiato
+
+[Wallpaper]
+defaultWallpaperTheme=
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=1.20
+saturation=10
+
+[AdaptiveTransparency]
+enabled=true
