@@ -15,7 +15,6 @@ apt_inst kde-plasma-desktop
 # Link theme
 link .config/plasmarc
 link .local/share/plasma/desktoptheme/Scratchy
-link .config/plasma-org.kde.plasma.desktop-appletsrc
 
 # Get funky dock
 apt_inst latte-dock
